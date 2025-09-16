@@ -1,16 +1,78 @@
-# wild README
+# 🌙 Wild Theme
 
-## Working with Markdown
+Um tema escuro moderno e elegante para Visual Studio Code, criado para desenvolvedores que buscam uma experiência visual única e confortável durante longas sessões de programação.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Características
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Design Escuro Moderno**: Interface limpa e sofisticada
+- **Alta Legibilidade**: Cores cuidadosamente selecionadas para reduzir fadiga visual
+- **Sintaxe Otimizada**: Destaque de código claro e intuitivo
+- **Experiência Imersiva**: Perfeito para programação noturna ou ambientes com pouca luz
 
-## For more information
+## 🚀 Instalação
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Via VS Code Marketplace
+1. Abra o VS Code
+2. Vá para Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+3. Procure por "Wild Theme" ou "wildtheme.wild"
+4. Clique em "Install"
 
-**Enjoy!**
+### Via Linha de Comando
+```bash
+code --install-extension wildtheme.wild
+```
+
+## 🎨 Como Ativar
+
+1. Abra o Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
+2. Digite "Color Theme"
+3. Selecione "Preferences: Color Theme"
+4. Escolha "Wild Dark"
+
+## 📸 Preview
+
+O Wild Theme oferece uma paleta de cores moderna que mantém o código legível e os olhos descansados, ideal para sessões longas de desenvolvimento.
+
+## 🛠️ Linguagens Suportadas
+
+Wild Theme funciona perfeitamente com todas as linguagens suportadas pelo VS Code, incluindo:
+
+- JavaScript/TypeScript
+- Python
+- Java
+- C/C++
+- HTML/CSS
+- React/JSX
+- E muito mais!
+
+## 🐛 Relatando Problemas
+
+Encontrou algum problema ou tem uma sugestão? 
+
+- **GitHub Issues**: [Reportar Problema](https://github.com/joaoqueiroz-code/wild-theme/issues)
+- **GitHub Repo**: [wild-theme](https://github.com/joaoqueiroz-code/wild-theme)
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🙏 Contribuindo
+
+Contribuições são sempre bem-vindas! Sinta-se à vontade para:
+
+- Abrir issues com sugestões
+- Fazer pull requests com melhorias
+- Compartilhar o tema com outros desenvolvedores
+
+## ⭐ Gostou do Wild Theme?
+
+Se você gostou do tema, considere:
+- ⭐ Dar uma estrela no [GitHub](https://github.com/joaoqueiroz-code/wild-theme)
+- 📝 Deixar uma avaliação no Marketplace
+- 📢 Compartilhar com outros desenvolvedores
+
+---
+
+**Desenvolvido com ❤️ para a comunidade de desenvolvedores**
+
+*Transforme seu VS Code numa experiência selvagem!* 🐺
