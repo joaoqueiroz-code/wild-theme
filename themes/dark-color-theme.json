@@ -2,29 +2,29 @@
     "name": "wild",
     "type": "dark",
     "colors": {
-        "editor.background": "#1C1C1C",
+        "editor.background": "#282828",
         "editor.foreground": "#6B6B6B",
-        "editorCursor.foreground": "#ef6060",
+        "editorCursor.foreground": "#88b4d3",
         "editor.lineHighlightBackground": "#3B3B3B15",
-        "editor.selectionBackground": "#ef606030",
+        "editor.selectionBackground": "#88b4d330",
         "editor.inactiveSelectionBackground": "#3B3B3B55",
-        "activityBarBadge.background": "#ef6060",
+        "activityBarBadge.background": "#88b4d3",
         "sideBarTitle.foreground": "#E5E5E5",
-        "activityBar.background": "#000000",
+        "activityBar.background": "#282828",
         "activityBar.foreground": "#6B6B6B",
         "sideBar.background": "#1C1C1C",
         "sideBar.foreground": "#6B6B6B",
-        "statusBar.background": "#000000",
+        "statusBar.background": "#282828",
         "statusBar.foreground": "#6B6B6B",
-        "titleBar.activeBackground": "#000000",
+        "titleBar.activeBackground": "#282828",
         "titleBar.activeForeground": "#E5E5E5",
         "panel.background": "#1C1C1C",
-        "terminal.background": "#000000",
+        "terminal.background": "#282828",
         "terminal.foreground": "#6B6B6B",
         "editorWidget.background": "#3B3B3B",
-        "editorWidget.border": "#ef6060",
-        "focusBorder": "#ef6060",
-        "button.background": "#ef6060",
+        "editorWidget.border": "#88b4d3",
+        "focusBorder": "#88b4d3",
+        "button.background": "#88b4d3",
         "button.foreground": "#FFFFFF",
         "input.background": "#3B3B3B",
         "input.foreground": "#E5E5E5",
@@ -42,7 +42,7 @@
         {
             "scope": "keyword",
             "settings": {
-                "foreground": "#ef6060",
+                "foreground": "#88b4d3",
                 "fontStyle": "bold"
             }
         },
@@ -61,13 +61,13 @@
         {
             "scope": "number",
             "settings": {
-                "foreground": "#ef6060"
+                "foreground": "#88b4d3"
             }
         },
         {
             "scope": "constant.language",
             "settings": {
-                "foreground": "#ef6060",
+                "foreground": "#88b4d3",
                 "fontStyle": "bold"
             }
         },
@@ -100,7 +100,7 @@
         {
             "scope": "operator",
             "settings": {
-                "foreground": "#ef6060"
+                "foreground": "#88b4d3"
             }
         },
         {
@@ -112,7 +112,7 @@
         {
             "scope": "constant.character.escape",
             "settings": {
-                "foreground": "#ef6060"
+                "foreground": "#88b4d3"
             }
         },
         {
