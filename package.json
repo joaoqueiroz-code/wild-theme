@@ -3,13 +3,13 @@
   "displayName": "Wild",
   "publisher": "wildtheme",
   "description": "Um tema escuro para VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/joaoqueiroz-code/wild-theme"
   },
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
