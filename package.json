@@ -1,21 +1,35 @@
 {
-  "name": "wolf",
-  "displayName": "wolf",
-  "description": "",
+  "name": "wild",
+  "displayName": "Wild",
+  "publisher": "wildtheme",
+  "description": "Um tema escuro para VS Code",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoqueiroz-code/wild-theme"
+  },
   "engines": {
     "vscode": "^1.104.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "wild",
+    "color-theme"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "dark",
+        "label": "Wild Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "package": "vsce package"
   }
 }
