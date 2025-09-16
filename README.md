@@ -1,6 +1,6 @@
-# 🌙 Wild Theme
+# Wild Theme
 
-Um tema escuro moderno e elegante para Visual Studio Code, criado para desenvolvedores que buscam uma experiência visual única e confortável durante longas sessões de programação.
+Um tema escuro para Visual Studio Code, criado para desenvolvedores que buscam uma experiência visual única e confortável durante longas sessões de programação.
 
 ## ✨ Características
 
@@ -52,10 +52,6 @@ Encontrou algum problema ou tem uma sugestão?
 - **GitHub Issues**: [Reportar Problema](https://github.com/joaoqueiroz-code/wild-theme/issues)
 - **GitHub Repo**: [wild-theme](https://github.com/joaoqueiroz-code/wild-theme)
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 🙏 Contribuindo
 
 Contribuições são sempre bem-vindas! Sinta-se à vontade para:
@@ -73,6 +69,6 @@ Se você gostou do tema, considere:
 
 ---
 
-**Desenvolvido com ❤️ para a comunidade de desenvolvedores**
+**Desenvolvido com 🩶 para a comunidade de desenvolvedores**
 
 *Transforme seu VS Code numa experiência selvagem!* 🐺
