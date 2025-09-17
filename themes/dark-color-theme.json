@@ -29,7 +29,44 @@
         "input.background": "#333333",
         "input.foreground": "#C0C0C0",
         "dropdown.background": "#333333",
-        "list.hoverBackground": "#3B3B3B50"
+        "list.hoverBackground": "#3B3B3B50",
+
+        // Configurações do Git/SCM
+        "gitDecoration.modifiedResourceForeground": "#9B9A9A",
+        "gitDecoration.deletedResourceForeground": "#F85552", 
+        "gitDecoration.untrackedResourceForeground": "#21c063",
+        "gitDecoration.addedResourceForeground": "#21c063",
+        "gitDecoration.conflictingResourceForeground": "#D3869B",
+        "gitDecoration.ignoredResourceForeground": "#666666",
+        "gitDecoration.submoduleResourceForeground": "#8FBCBB",
+        "gitDecoration.renamedResourceForeground": "#D3869B",
+        "gitDecoration.stageModifiedResourceForeground": "#9B9A9A",
+        "gitDecoration.stageDeletedResourceForeground": "#F85552",
+
+        // Cores para o editor de diff
+        "diffEditor.insertedTextBackground": "#21c06320",
+        "diffEditor.removedTextBackground": "#F8555220",
+        "diffEditor.insertedLineBackground": "#21c06315",
+        "diffEditor.removedLineBackground": "#F8555215",
+
+        // Gutter do editor (onde aparecem as mudanças)
+        "editorGutter.modifiedBackground": "#9B9A9A",
+        "editorGutter.addedBackground": "#21c063",
+        "editorGutter.deletedBackground": "#F85552",
+
+        // Overview ruler (barra de rolagem)
+        "editorOverviewRuler.modifiedForeground": "#9B9A9A",
+        "editorOverviewRuler.addedForeground": "#21c063",
+        "editorOverviewRuler.deletedForeground": "#F85552",
+
+        // Merge conflicts
+        "merge.currentHeaderBackground": "#21c06340",
+        "merge.currentContentBackground": "#21c06320",
+        "merge.incomingHeaderBackground": "#8FBCBB40",
+        "merge.incomingContentBackground": "#8FBCBB20",
+        "merge.border": "#666666",
+        "merge.commonContentBackground": "#9B9A9A20",
+        "merge.commonHeaderBackground": "#9B9A9A40",
     },
     "tokenColors": [
         {
